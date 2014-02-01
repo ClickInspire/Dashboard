@@ -18,19 +18,25 @@ The welcome message is important because it informs their customers of the trans
 
 ### Customer List
 
-This list provides quick access to all of your customers. Filterable by name and online status. Each of the list items will indicate the online status and whether or not an unread message is contained.
+#### v1
+
+This list provides quick access to all of your customers.
+
+[] Searchable by customer name.
+[] Filterable by online status.
+[] Indicates whether an unread message is contained.
 
 ### Customer Profile
 
 #### v1
 
-* Basic customer information found in the customer's entities
-* Conversation window for chat
-..*Indication of text response versus app response
+[] Basic customer information found in the customer's entities.
+[] Conversation window for chat.
+..[] Indication of text response versus app response.
 
 #### v1.5
 
-* Ability to merge customers
+[] Ability to merge customers
 
 ### New Customer
 
